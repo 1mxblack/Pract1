@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\bin\Debug\netcoreapp3.1\СтаршеМладше.exe
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\bin\Debug\netcoreapp3.1\СтаршеМладше.deps.json
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\bin\Debug\netcoreapp3.1\СтаршеМладше.runtimeconfig.json
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\bin\Debug\netcoreapp3.1\СтаршеМладше.runtimeconfig.dev.json
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\bin\Debug\netcoreapp3.1\СтаршеМладше.dll
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\bin\Debug\netcoreapp3.1\СтаршеМладше.pdb
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.AssemblyInfo.cs
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.dll
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.pdb
+C:\Users\admin\source\repos\СтаршеМладше\СтаршеМладше\obj\Debug\netcoreapp3.1\СтаршеМладше.genruntimeconfig.cache
